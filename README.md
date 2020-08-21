@@ -10,7 +10,7 @@
 
 
 # 安裝 Installation
-Target: Web app - _Progressive Web App (PWA)_
+Target: Web app - _Progressive Web App (PWA)_
 
 # 使用方法 Usage
 TODO
