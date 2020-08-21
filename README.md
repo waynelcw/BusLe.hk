@@ -1,4 +1,4 @@
-# BusNe.hk 巴士呢
+# 巴士呢 BusNe.hk
 > A neat, extra-fast and ad-free bus tracking app for daily use
 
 
