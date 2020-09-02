@@ -17,4 +17,4 @@ Target: Web app - _Progressive Web App (PWA)_
 TODO
 
 # 參與項目 Contribute
-TO Announce
+See [Project wiki](https://github.com/waynelcw/busne.hk/wiki)
