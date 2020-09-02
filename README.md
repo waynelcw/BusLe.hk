@@ -1,6 +1,7 @@
 # 巴士呢 BusNe.hk
-> A neat, extra-fast and ad-free bus tracking app for daily use
-
+> 一個3秒內獲得當用巴士時間的Web App | Get the ETA of your regular bus in 3 seconds 
+- 無廣告 Ad free
+- 無障礙 Accessibility
 
 # 支援平台 Bus line supported
 巴士公司 Bus company | 支援 Support
